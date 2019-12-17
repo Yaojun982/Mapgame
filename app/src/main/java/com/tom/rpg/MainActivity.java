@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.arrow_left:
                 Log.d("MainActivity", "OnClick:button_LEFT");
                 break;
+                
         }
     }
 }
